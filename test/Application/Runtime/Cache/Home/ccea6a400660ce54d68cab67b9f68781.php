@@ -1,0 +1,25 @@
+<?php if (!defined('THINK_PATH')) exit();?><!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+<body>
+<form name="form1" method="post" action="">
+  <table width="400" border="1" align="center">
+    <tr>
+      <td>考号</td>
+      <td><input type="text" name="kaohao" ></td>
+    </tr>
+    <tr>
+      <td>密码</td>
+      <td><input type="text" name="mima" ></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><input type="submit" name="bt1"  value="登录"></td>
+    </tr>
+  </table>
+</form>
+</body>
+</html>

@@ -1,0 +1,100 @@
+*{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+  }
+  .header{
+    height:60px;
+    line-height:60px;
+    text-align: center;
+    background:#154271;
+    color:aliceblue;
+  }
+  .content{
+    width:1024px;
+    height:400px;
+    margin:0 auto;
+  }
+  .con-left{
+    float:left;
+    width:230px;
+    height:100%;
+  }
+  .con-left a{
+    display:block;
+    float:left;
+    text-decoration:none;
+    width:50px;
+    height:40px;
+    line-height:40px;
+    font-size:20px;
+    text-align: center;
+    color:blueviolet;
+    background: pink;
+    margin:10px 0 0 15px;
+    
+  }
+  .con-left p{
+    width:100%;
+    height:40px;
+    line-height:40px;
+    background: pink;
+    text-align: center;
+  }
+  .con-cen{
+    float:left;
+    width:484px;
+    
+    margin-top:50px;
+  }
+  .cen-box{
+   margin:20px 0 0 20px;
+  }
+  .cen-box li{
+    height:30px;
+
+  }
+  .cen-footer{
+    position:relative;
+
+  }
+  .cen-footer input{
+    position:absolute;
+  }
+  .cen-footer input:nth-child(1){
+   left:10px;
+  }
+  .cen-footer input:nth-child(2){
+   left:100px;
+  }
+  .cen-footer input:nth-child(3){
+   left:200px;
+  }
+  .con-right{
+    float:left;
+    width:230px;
+    height:100%;
+    position:relative;
+  }
+  .con-right img{
+    display: block;
+    width:200px;
+     margin:0 auto; 
+     margin-top:10px;
+  }
+  .chengji{
+    width:800px;
+    margin:0 auto;
+    text-align: left;
+    position:relative;
+  }
+.chengji ul li {
+  width:200px;
+  float:left;
+}
+.tuchu{
+position:absolute;
+font-size:25px;
+right:30px;
+top:10px;
+}

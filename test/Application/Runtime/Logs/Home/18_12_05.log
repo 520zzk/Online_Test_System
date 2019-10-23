@@ -1,0 +1,2693 @@
+[ 2018-12-05T08:17:55+08:00 ] ::1 /Mythinkphp/test4/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018986s ]
+
+[ 2018-12-05T08:17:55+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003323s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 100 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066277s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014467s ]
+
+[ 2018-12-05T08:18:01+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002385s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0164s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_kaosheng` WHERE `kaohao` = '002' AND `mima` = '123456' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2018-12-05T08:18:01+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002172s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0249s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0093s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003420s ]
+
+[ 2018-12-05T08:18:04+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002152s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0247s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='002',`xingming`='关羽',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:6;i:2;i:10;i:3;i:22;i:4;i:28;i:5;i:31;i:6;i:34;i:7;i:49;i:8;i:55;i:9;i:63;}',`daan`='a:9:{i:1;s:1:\"B\";i:2;s:1:\"A\";i:3;s:1:\"A\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '2' [ RunTime:0.1187s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001694s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001927s ]
+
+[ 2018-12-05T08:18:04+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002501s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0247s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='002',`xingming`='关羽',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:6;i:2;i:10;i:3;i:22;i:4;i:28;i:5;i:31;i:6;i:34;i:7;i:49;i:8;i:55;i:9;i:63;}',`daan`='a:9:{i:1;s:1:\"B\";i:2;s:1:\"A\";i:3;s:1:\"A\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '2' [ RunTime:0.0009s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000286s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004212s ]
+
+[ 2018-12-05T08:18:05+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002731s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0245s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='002',`xingming`='关羽',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:6;i:2;i:10;i:3;i:22;i:4;i:28;i:5;i:31;i:6;i:34;i:7;i:49;i:8;i:55;i:9;i:63;}',`daan`='a:9:{i:1;s:1:\"B\";i:2;s:1:\"A\";i:3;s:1:\"A\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '2' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2018-12-05T08:18:08+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002752s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE (`id` LIKE 3 OR `id` LIKE 6 OR `id` LIKE 10 OR `id` LIKE 22 OR `id` LIKE 28 OR `id` LIKE 31 OR `id` LIKE 34 OR `id` LIKE 49 OR `id` LIKE 55 OR `id` LIKE 63)  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='002',`xingming`='关羽',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:6;i:2;i:10;i:3;i:22;i:4;i:28;i:5;i:31;i:6;i:34;i:7;i:49;i:8;i:55;i:9;i:63;}',`daan`='a:9:{i:1;s:1:\"B\";i:2;s:1:\"A\";i:3;s:1:\"A\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='1',`zhaopian`='none.jpg' WHERE `id` = '2' [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002009s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002547s ]
+
+[ 2018-12-05T08:18:56+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002926s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0123s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='002',`xingming`='关羽',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:6;i:2;i:10;i:3;i:22;i:4;i:28;i:5;i:31;i:6;i:34;i:7;i:49;i:8;i:55;i:9;i:63;}',`daan`='a:9:{i:1;s:1:\"B\";i:2;s:1:\"A\";i:3;s:1:\"A\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='1',`zhaopian`='none.jpg' WHERE `id` = '2' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002787s ]
+
+[ 2018-12-05T08:18:57+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002761s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0123s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002850s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002610s ]
+
+[ 2018-12-05T08:18:58+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002574s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0125s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 31 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002755s ]
+
+[ 2018-12-05T08:18:59+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002651s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0078s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 55 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002524s ]
+
+[ 2018-12-05T08:19:00+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002523s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0127s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002532s ]
+
+[ 2018-12-05T08:19:01+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002548s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0082s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026069s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002530s ]
+
+[ 2018-12-05T08:19:02+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002504s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0135s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 63 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004173s ]
+
+[ 2018-12-05T08:19:02+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002499s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0133s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002730s ]
+
+[ 2018-12-05T08:19:03+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002736s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0131s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 55 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001999s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002523s ]
+
+[ 2018-12-05T08:19:04+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002578s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 31 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021282s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021363s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002805s ]
+
+[ 2018-12-05T08:19:04+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002530s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '002' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003109s ]
+
+[ 2018-12-05T10:04:37+08:00 ] ::1 /Mythinkphp/test4/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021440s ]
+
+[ 2018-12-05T10:04:38+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004512s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 100 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026786s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015115s ]
+
+[ 2018-12-05T10:04:44+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004966s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0112s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_kaosheng` WHERE `kaohao` = '003' AND `mima` = '123456' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2018-12-05T10:04:44+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007933s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0121s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `tb_shiti` ORDER BY id  [ RunTime:0.0143s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006841s ]
+
+[ 2018-12-05T10:05:07+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004520s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:1:{i:1;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004920s ]
+
+[ 2018-12-05T10:05:09+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004881s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:2:{i:1;s:1:\"B\";i:2;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027893s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004916s ]
+
+[ 2018-12-05T10:05:28+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004547s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:3:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027589s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004054s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004731s ]
+
+[ 2018-12-05T10:05:30+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004954s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:4:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 35 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 5 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004564s ]
+
+[ 2018-12-05T10:05:32+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004776s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0133s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:5:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 43 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined offset: 6 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041841s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007805s ]
+
+[ 2018-12-05T10:05:34+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004558s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0094s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:6:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 46 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045189s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007631s ]
+
+[ 2018-12-05T10:05:37+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004541s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0095s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004661s ]
+
+[ 2018-12-05T10:05:39+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004475s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0097s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 35 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004044s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004706s ]
+
+[ 2018-12-05T10:05:40+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004852s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0098s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:6:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 43 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004004s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004568s ]
+
+[ 2018-12-05T10:05:41+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004693s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0097s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:6:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 46 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026186s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004537s ]
+
+[ 2018-12-05T10:05:44+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004503s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:7:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";i:7;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 47 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 8 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027226s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005357s ]
+
+[ 2018-12-05T10:05:45+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004780s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:8:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";i:7;s:1:\"B\";i:8;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 9 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004925s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004565s ]
+
+[ 2018-12-05T10:05:47+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004508s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:9:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004041s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004786s ]
+
+[ 2018-12-05T10:05:55+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005371s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0103s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE (`id` LIKE 7 OR `id` LIKE 9 OR `id` LIKE 10 OR `id` LIKE 24 OR `id` LIKE 34 OR `id` LIKE 35 OR `id` LIKE 43 OR `id` LIKE 46 OR `id` LIKE 47 OR `id` LIKE 49)  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:9:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='1',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004901s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005443s ]
+
+[ 2018-12-05T10:06:21+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002548s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0109s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020164s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002408s ]
+
+[ 2018-12-05T10:06:23+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002263s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0109s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:10:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"B\";i:0;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='1',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001834s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002265s ]
+
+[ 2018-12-05T10:06:26+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002277s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0111s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '003' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE (`id` LIKE 7 OR `id` LIKE 9 OR `id` LIKE 10 OR `id` LIKE 24 OR `id` LIKE 34 OR `id` LIKE 35 OR `id` LIKE 43 OR `id` LIKE 46 OR `id` LIKE 47 OR `id` LIKE 49)  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='003',`xingming`='张飞',`xingbie`='',`timu`='a:10:{i:0;i:7;i:1;i:9;i:2;i:10;i:3;i:24;i:4;i:34;i:5;i:35;i:6;i:43;i:7;i:46;i:8;i:47;i:9;i:49;}',`daan`='a:10:{i:1;s:1:\"B\";i:2;s:1:\"B\";i:3;s:3:\"ABC\";i:4;s:1:\"B\";i:5;s:1:\"B\";i:6;s:1:\"C\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:1:\"B\";i:0;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='1',`zhaopian`='none.jpg' WHERE `id` = '3' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002937s ]
+
+[ 2018-12-05T10:06:37+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/tuichu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002404s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.151812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.151939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004067s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004184s ]
+
+[ 2018-12-05T10:06:40+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002923s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 100 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015884s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001837s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001900s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002492s ]
+
+[ 2018-12-05T10:07:20+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002277s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_kaosheng` WHERE `kaohao` = '004' AND `mima` = '123456' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-12-05T10:07:20+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002306s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0151s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` ORDER BY id  [ RunTime:0.0016s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002289s ]
+
+[ 2018-12-05T10:07:23+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002381s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0151s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:1:{i:1;s:1:\"A\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0008s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019385s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001786s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001849s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002297s ]
+
+[ 2018-12-05T10:07:25+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002389s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0149s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:2:{i:1;s:1:\"A\";i:2;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 12 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019245s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001920s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001987s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002347s ]
+
+[ 2018-12-05T10:07:26+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002294s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0149s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:3:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 18 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001768s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002390s ]
+
+[ 2018-12-05T10:07:28+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002638s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:4:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 32 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 5 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001774s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001836s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002373s ]
+
+[ 2018-12-05T10:07:31+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002293s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0797s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:5:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0008s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 37 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined offset: 6 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031654s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003813s ]
+
+[ 2018-12-05T10:07:33+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002558s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0161s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:6:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";i:6;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 39 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002668s ]
+
+[ 2018-12-05T10:07:35+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002293s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0074s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:7:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";i:6;s:1:\"B\";i:7;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 54 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 8 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019021s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001927s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001995s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002257s ]
+
+[ 2018-12-05T10:07:37+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002437s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:8:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 63 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 9 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001802s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002714s ]
+
+[ 2018-12-05T10:07:45+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002261s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0232s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:9:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:2:\"AB\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0008s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 63 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003157s ]
+
+[ 2018-12-05T10:07:49+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002282s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0162s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:9:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:3:\"ABC\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 63 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025713s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003157s ]
+
+[ 2018-12-05T10:07:51+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002373s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE (`id` LIKE 3 OR `id` LIKE 5 OR `id` LIKE 6 OR `id` LIKE 12 OR `id` LIKE 18 OR `id` LIKE 32 OR `id` LIKE 37 OR `id` LIKE 39 OR `id` LIKE 54 OR `id` LIKE 63)  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:9:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:3:\"ABC\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='1',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 63 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002583s ]
+
+[ 2018-12-05T10:07:57+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002287s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002319s ]
+
+[ 2018-12-05T10:08:00+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002283s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:10:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:3:\"ABC\";i:0;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='1',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024233s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001753s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002258s ]
+
+[ 2018-12-05T10:08:02+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002380s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '004' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE (`id` LIKE 3 OR `id` LIKE 5 OR `id` LIKE 6 OR `id` LIKE 12 OR `id` LIKE 18 OR `id` LIKE 32 OR `id` LIKE 37 OR `id` LIKE 39 OR `id` LIKE 54 OR `id` LIKE 63)  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='004',`xingming`='赵云',`xingbie`='',`timu`='a:10:{i:0;i:3;i:1;i:5;i:2;i:6;i:3;i:12;i:4;i:18;i:5;i:32;i:6;i:37;i:7;i:39;i:8;i:54;i:9;i:63;}',`daan`='a:10:{i:1;s:1:\"A\";i:2;s:1:\"B\";i:3;s:1:\"C\";i:4;s:1:\"B\";i:5;s:1:\"C\";i:6;s:1:\"B\";i:7;s:1:\"B\";i:8;s:1:\"B\";i:9;s:3:\"ABC\";i:0;s:1:\"B\";}',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='1',`zhaopian`='none.jpg' WHERE `id` = '4' [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020504s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001778s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002351s ]
+
+[ 2018-12-05T11:35:41+08:00 ] ::1 /Mythinkphp/test4/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002340s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0094s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002391s ]
+
+[ 2018-12-05T11:37:29+08:00 ] ::1 /Mythinkphp/test4/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002347s ]
+
+[ 2018-12-05T11:37:29+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005416s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 100 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001898s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002713s ]
+
+[ 2018-12-05T11:37:35+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002414s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0160s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_kaosheng` WHERE `kaohao` = '005' AND `mima` = '123456' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-12-05T11:37:35+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002272s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0159s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021082s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001726s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002186s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002251s ]
+
+[ 2018-12-05T11:37:37+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002235s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0162s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002147s ]
+
+[ 2018-12-05T11:37:38+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002779s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0161s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021068s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001831s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002134s ]
+
+[ 2018-12-05T11:37:38+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002312s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0161s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021479s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001786s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001848s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002089s ]
+
+[ 2018-12-05T11:37:39+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002267s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001783s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002101s ]
+
+[ 2018-12-05T11:37:39+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002319s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0159s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001835s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002107s ]
+
+[ 2018-12-05T11:37:40+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002281s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0072s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021423s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001827s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002158s ]
+
+[ 2018-12-05T11:37:40+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002378s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0163s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '005' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] unserialize(): Error at offset 0 of 1 bytes D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php 第 25 行.
+SQL: SELECT * FROM `tb_shiti` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002345s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002215s ]
+
+[ 2018-12-05T11:38:24+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002477s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 100 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002229s ]
+
+[ 2018-12-05T11:38:49+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002209s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0169s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_kaosheng` WHERE `kaohao` = '007' AND `mima` = '123456' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-12-05T11:38:49+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002282s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0206s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `tb_shiti` ORDER BY id  [ RunTime:0.0025s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='007',`xingming`='魏延',`xingbie`='',`timu`='a:10:{i:0;i:0;i:1;i:11;i:2;i:18;i:3;i:22;i:4;i:29;i:5;i:45;i:6;i:49;i:7;i:57;i:8;i:58;i:9;i:60;}',`daan`='',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '7' [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003523s ]
+
+[ 2018-12-05T11:38:51+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002399s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0168s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002266s ]
+
+[ 2018-12-05T11:38:52+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002426s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0169s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002272s ]
+
+[ 2018-12-05T11:38:53+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002325s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0172s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 18 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002247s ]
+
+[ 2018-12-05T11:38:54+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002426s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0168s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019858s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002235s ]
+
+[ 2018-12-05T11:38:55+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002237s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0167s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002208s ]
+
+[ 2018-12-05T11:38:57+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002268s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0072s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002370s ]
+
+[ 2018-12-05T11:38:58+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002392s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0168s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 57 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019523s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001941s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003065s ]
+
+[ 2018-12-05T11:38:59+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002293s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0076s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 58 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020563s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002204s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002270s ]
+
+[ 2018-12-05T11:38:59+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002325s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0168s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001881s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002362s ]
+
+[ 2018-12-05T11:39:00+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002264s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0172s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 60 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001932s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002263s ]
+
+[ 2018-12-05T11:39:00+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002275s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0169s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025519s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001932s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002289s ]
+
+[ 2018-12-05T11:40:17+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002361s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0091s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002537s ]
+
+[ 2018-12-05T11:40:18+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002226s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0171s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '007' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 45 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 86 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003508s ]
+
+[ 2018-12-05T11:45:15+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003214s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 101 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001975s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002268s ]
+
+[ 2018-12-05T11:45:28+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002371s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0229s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_kaosheng` WHERE `kaohao` = '008' AND `mima` = '123456' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-12-05T11:45:28+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002248s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0101s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` ORDER BY id  [ RunTime:0.0016s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='008',`xingming`='姜维',`xingbie`='',`timu`='a:10:{i:0;i:5;i:1;i:10;i:2;i:32;i:3;i:35;i:4;i:39;i:5;i:43;i:6;i:45;i:7;i:54;i:8;i:60;i:9;i:61;}',`daan`='',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '8' [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001733s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002244s ]
+
+[ 2018-12-05T11:46:07+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002240s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0091s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 43 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000400s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000509s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2018-12-05T11:46:09+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002251s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0093s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 39 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002086s ]
+
+[ 2018-12-05T11:46:10+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002309s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0099s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 35 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024493s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2018-12-05T11:46:12+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002267s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0091s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021241s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001719s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002303s ]
+
+[ 2018-12-05T11:46:14+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002296s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002076s ]
+
+[ 2018-12-05T11:46:16+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002228s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002107s ]
+
+[ 2018-12-05T11:46:32+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002233s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 101 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017515s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002182s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002250s ]
+
+[ 2018-12-05T11:47:05+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002665s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0097s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_kaosheng` WHERE `kaohao` = '008' AND `mima` = '123456' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-12-05T11:47:06+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002556s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0096s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` ORDER BY id  [ RunTime:0.0016s ]
+SQL: UPDATE `tb_kaosheng` SET `kaohao`='008',`xingming`='姜维',`xingbie`='',`timu`='a:10:{i:0;i:1;i:1;i:2;i:2;i:8;i:3;i:32;i:4;i:41;i:5;i:47;i:6;i:53;i:7;i:56;i:8;i:60;i:9;i:63;}',`daan`='',`jiaojuanshijian`='0000-00-00 00:00:00',`mima`='123456',`fenshu`='0',`zhaopian`='none.jpg' WHERE `id` = '8' [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001835s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001900s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002679s ]
+
+[ 2018-12-05T11:50:19+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002423s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0098s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002954s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003801s ]
+
+[ 2018-12-05T11:50:22+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002278s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0083s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021913s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002202s ]
+
+[ 2018-12-05T11:51:12+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002297s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0107s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001787s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001852s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002367s ]
+
+[ 2018-12-05T11:51:14+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index/no/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002368s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0107s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '008' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002408s ]
+

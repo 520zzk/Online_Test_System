@@ -1,0 +1,68 @@
+[ 2018-12-09T17:51:47+08:00 ] ::1 /Mythinkphp/test4/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018800s ]
+
+[ 2018-12-09T17:51:47+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002988s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 101 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039736s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.028763s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001704s ]
+
+[ 2018-12-09T17:51:54+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0105s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_kaosheng` WHERE `kaohao` = '001' AND `mima` = '123456' LIMIT 1   [ RunTime:0.0015s ]
+
+[ 2018-12-09T17:51:54+08:00 ] ::1 /Mythinkphp/test4/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001611s ]
+SQL: SHOW COLUMNS FROM `tb_shiti` [ RunTime:0.0101s ]
+SQL: SHOW COLUMNS FROM `tb_kaosheng` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `tb_kaosheng` WHERE `kaohao` = '001' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tb_shiti` WHERE `id` = 14 LIMIT 1   [ RunTime:0.0319s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\Mythinkphp\test4\Application\Home\Controller\IndexController.class.php on line 87 and defined D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\Mythinkphp\test4\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined variable: fenshu D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 52 行.
+NOTIC: [8] Undefined variable: on D:\phpStudy\WWW\Mythinkphp\test4\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001463s ]
+

@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<link rel="stylesheet" href="__PUBLIC__/css/index.css">
+</head>
+
+<body>
+  <div class="header">
+    <h1>在线考试系统</h1>
+   
+  </div>  
+  <div class="content">
+    <div class="con-left">
+      <p>考试的总题数{$total}</p>
+      <for start="0" end="$total">
+        <a href="{:U('Home/Index/index/no/'.$i)}">{$i+1}</a>
+      </for>
+    </div>
+    <div class="con-cen">
+      <form action="" method="POST" onsubmit="zzk()" id="form">
+        <p> 当前第{$no+1}题 </p>
+        <input type="hidden" value="{$no}" name="num">
+        <p><span>{$current['id']}.</span> {$current['timu']}</p>
+        <if condition="$tixing gt 1 ">
+            <div class="cen-box">
+                <ul>
+                  <li><input type='checkbox' name=zzk[]  value="A">{$current['a']}  </li>
+                  <li><input type='checkbox' name=zzk[]  value="B">{$current['b']}  </li>
+                  <li><input type='checkbox' name=zzk[]  value="C">{$current['c']}  </li>
+                  <li><input type='checkbox' name=zzk[]  value="D">{$current['d']}  </li>
+                  <li><input type='checkbox' name=zzk[]  value="E">{$current['e']}  </li>
+                </ul>
+            </div>
+        <else />
+          <div class="cen-box">
+            <ul>
+                <li><input type='radio' name=zzk[]  value="A">{$current['a']}  </li>
+                <li><input type='radio' name=zzk[]  value="B">{$current['b']}  </li>
+                <li><input type='radio' name=zzk[]  value="C">{$current['c']}  </li>
+                <li><input type='radio' name=zzk[]  value="D">{$current['d']}  </li>
+              </ul>
+          </div>   
+      </if>
+      <div class="cen-footer">
+        <input type="submit" name="Last" value='上一题' onclick="t=1">
+        <input type="submit" name='Next' value="下一题" onclick="t=2">
+        <input type="submit" name='give' value="交卷"  onclick="return confirm('是否确认完毕，确认完毕请交卷')">
+      </div>
+    </div>
+    <div class="con-right">
+      <img src="__PUBLIC__/userimg/{$stu_info['zhaopian']}"alt="">
+      <p>考生号：{$stu_info['kaohao']} <input type="hidden" value="{$stu_info['kaohao']}" name="kaohao"></p>
+      <p>考生姓名：{$stu_info['xingming']}</p>
+      <p>您的考试成绩：{$fenshu}</p>
+    </div>
+    </form>
+  </div> 
+  <if condition="$on eq 1 ">
+      <div class="chengji">
+          <p>考试的成绩</p>
+          <span class='tuchu'><a href="{:U('Home/Index/tuichu/')}">退出</a></span>
+          <ul class="ul">
+              <for start="0" end="$len">
+                <li>
+                  <p>{$i+1}：</p>
+                  <p>标准答案：{$biaoda[$i]}</p>
+                  <p>您的答案： {$zida[$i]}</p>
+                </li>
+                </for>
+          </ul>
+          
+      </div>
+      <else /> 
+
+      </if>
+ 
+<br/>
+
+</body>
+<script type="text/javascript">
+  var url=parseInt("{$no}");
+  var strD="{$dan_cu}";
+  var strArr=strD.split('');
+  var Btn=document.getElementsByClassName('cen-box')[0].getElementsByTagName('input');
+  var arrBtn=[];
+  for(var i=0;i<Btn.length;i++){
+    arrBtn.push(Btn[i].value);
+  }
+  for(var i=0;i<strArr.length;i++){
+    for(var j=0;j<arrBtn.length;j++){
+      if(strArr[i]==arrBtn[j]){
+        Btn[j].checked=1;
+      }
+    }
+  }
+var sub=document.getElementsByClassName('cen-footer')[0].getElementsByTagName('input');
+if(url==0){
+  sub[0].style.display="none";
+}else{
+  sub[0].style.display="block";
+}
+if(url==parseInt({$total})-1){
+  sub[1].value="保存";
+}else{
+  sub[1].style.display="block";
+}
+function zzk(){
+ 
+  if(t==1){
+     document.getElementById('form').action="{:U('Home/Index/index/no/"+(url-1)+"')}";
+  }
+  if(t==2){
+    document.getElementById('form').action="{:U('Home/Index/index/no/"+(url+1)+"')}";
+  }
+ 
+
+}
+</script>
+</html>

@@ -1,0 +1,3390 @@
+[ 2018-12-04T10:04:37+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002356s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T10:05:37+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002875s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T10:06:34+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T10:06:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T10:06:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T10:06:38+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:40+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002868s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:41+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:42+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:42+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:43+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:44+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:45+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:46+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:47+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:28:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:32+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:33+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:37+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:38+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:40+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:31:41+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:03+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:06+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004279s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:32:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:33:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:35:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:40:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:49:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:49:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:49:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:51:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:51:32+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:14+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:53:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:54:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:12+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:14+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:15+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:15+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:33+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:34+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:37+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:42+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:43+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001650s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:44+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:55:45+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:01+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:02+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:56:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:57:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:57:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:57:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:57:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:57:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:58:38+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:58:43+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:58:44+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:58:44+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:59:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:59:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:59:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:59:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:59:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:59:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T11:59:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:33+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:41+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:42+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:44+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:44+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:00:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:01:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:01:01+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:01:02+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:01:03+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:01:03+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:01:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:01:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:03+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:11+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001852s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:12+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:15+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:16+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:19+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:02:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:24+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002169s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:03:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:03+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:38+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:40+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:44+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001646s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:45+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:45+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:46+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:46+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:04:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:03+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:11+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:05:11+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:06:46+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:06:47+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002091s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001378s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:06+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:11+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:38+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:41+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:07:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:08:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:08:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:08:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:08:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:08:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:08:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:09:01+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:09:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:09:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:09:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:09:34+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:10:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:10:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:10:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:10:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:10:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:10:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:10:12+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:11+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:12+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:14+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:15+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:17+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:24+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:25+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:11:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:12:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001877s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:12:32+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:12:33+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:12:34+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:12:34+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:12:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:12:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:12:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:14:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:14:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:14:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:14:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:15:32+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:15:46+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:16:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002061s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:16:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:16:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:16:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:16:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:16:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:16:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:16:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:17:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:17:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:17:33+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:17:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:17:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:06+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:24+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:38+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:45+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:47+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:18:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002273s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:20:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:20:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:21:40+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:21:43+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001616s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:21:45+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:21:47+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:22:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:22:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:22:12+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:22:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:22:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:22:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:24:37+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:24:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:24:40+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:06+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:14+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:16+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:17+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:25:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:32+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:33+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:34+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:34+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001800s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:26:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:27:14+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:27:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:01+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:03+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001413s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:06+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:11+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:11+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:12+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:12+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:37+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:40+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:29:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:30:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:30:17+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:30:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:30:19+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:30:21+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:30:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:30:24+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:30:25+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:34+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:46+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:47+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019834s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001421s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:31:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:32:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:32:01+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:56+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001686s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:33:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:01+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002262s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:02+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:57+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:58+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:34:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001796s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:35:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003306s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:24+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:25+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001527s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001672s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001925s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:43+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001547s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:45+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001657s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:46+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:47+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:47+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002800s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:36:55+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:01+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:10+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:19+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:37:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:38:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:38:08+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002352s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:38:09+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:38:15+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:38:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:38:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:38:21+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:42:17+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:42:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:42:19+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:42:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:42:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:43:35+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:43:37+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:43:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:43:39+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:43:40+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:24+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:32+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:48+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:50+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:44:51+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:11+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:14+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:14+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:15+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:17+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:19+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:45:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:49:59+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001664s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:01+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:02+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:21+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:50:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:13+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:14+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:15+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002126s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:15+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:16+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:17+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:17+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:18+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:19+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:20+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000190s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:21+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:21+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:22+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:23+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:24+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:24+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:26+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:27+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:28+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001755s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:30+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001408s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:31+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:36+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:37+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:49+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:52+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:53+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:56:54+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:00+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:02+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:03+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:04+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:05+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:06+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:07+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:29+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:32+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:32+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T12:57:33+08:00 ] ::1 /Mythinkphp/test4/Public/userimg/5c03b72181b32.j
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-04T14:37:52+08:00 ] ::1 /Mythinkphp/test4/index.php/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:38:10+08:00 ] ::1 /Mythinkphp/test4/index.php/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:38:18+08:00 ] ::1 /Mythinkphp/test4/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:38:29+08:00 ] ::1 /Mythinkphp/test4/index.php/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:38:43+08:00 ] ::1 /Mythinkphp/test4/index.php/Index/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:41:20+08:00 ] ::1 /Mythinkphp/test4/index.php/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:41:29+08:00 ] ::1 /Mythinkphp/test4/index.php/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:41:31+08:00 ] ::1 /Mythinkphp/test4/index.php/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:41:38+08:00 ] ::1 /Mythinkphp/test4/index.php/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001553s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:41:43+08:00 ] ::1 /Mythinkphp/test4/index.php/index/no/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001605s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T14:41:46+08:00 ] ::1 /Mythinkphp/test4/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Index
+
+[ 2018-12-04T19:58:51+08:00 ] ::1 /Mythinkphp/test4/index.php/fenshu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Fenshu
+
+[ 2018-12-04T19:59:20+08:00 ] ::1 /Mythinkphp/test4/index.php/fenshu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Fenshu
+
+[ 2018-12-04T19:59:21+08:00 ] ::1 /Mythinkphp/test4/index.php/fenshu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Fenshu
+
+[ 2018-12-04T19:59:27+08:00 ] ::1 /Mythinkphp/test4/fenshu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Fenshu
+
+[ 2018-12-04T19:59:37+08:00 ] ::1 /Mythinkphp/test4/fenshu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Fenshu
+
+[ 2018-12-04T19:59:45+08:00 ] ::1 /Mythinkphp/test4/fenshu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Fenshu
+
+[ 2018-12-04T21:15:19+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:21+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001048s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:22+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:23+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:23+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:24+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:25+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:25+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:25+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:26+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:26+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:46+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:47+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-12-04T21:15:48+08:00 ] ::1 /Mythinkphp/test4/Publiccss/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+ERR: 无法加载模块:Publiccss
+
